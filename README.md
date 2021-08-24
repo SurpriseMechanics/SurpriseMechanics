@@ -1,6 +1,6 @@
 Hello, I’m @SurpriseMechanics
 
-I work in Finance <3 and like to screw around with Python.
+I work in Finance and like to screw around with Python.
 Feel free to get in touch!
 
 
